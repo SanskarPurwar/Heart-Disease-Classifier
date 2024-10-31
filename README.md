@@ -89,7 +89,7 @@ The project implements three different classification models with the following 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👥 Contact
-- Your Name : **Sanskar Purwar**
+- **Sanskar Purwar**
 - GitHub: [@SanskarPurwar]()
 - LinkedIn: [https://www.linkedin.com/in/sanskar-purwar-593856230/]()
 

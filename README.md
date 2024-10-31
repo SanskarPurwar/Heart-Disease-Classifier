@@ -90,8 +90,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👥 Contact
 - **Sanskar Purwar**
-- GitHub: [@SanskarPurwar]()
-- LinkedIn: [https://www.linkedin.com/in/sanskar-purwar-593856230/]()
+- GitHub: [link](https://github.com/SanskarPurwar/)
+- LinkedIn: [link](https://www.linkedin.com/in/sanskar-purwar-593856230/)
 
 ## 🙏 Acknowledgments
 - UCI Machine Learning Repository for providing the Cleveland Heart Disease dataset
